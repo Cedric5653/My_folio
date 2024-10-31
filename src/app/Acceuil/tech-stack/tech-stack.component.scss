@@ -1,0 +1,30 @@
+
+
+.green-line-titre{
+    border: 0;
+    height: 5px;
+    background-color: rgb(3, 122, 3);
+    width: 50px;
+    display: inline-block;
+}
+
+
+.section-title {
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.tech-item {
+    margin-bottom: 2rem;
+}
+
+.tech-item img {
+    max-width: 100px;
+    margin-bottom: 1rem;
+}
+
+#cards:hover{
+    transform: translateY(-10px);
+    transition: ease-in-out;
+    
+}
